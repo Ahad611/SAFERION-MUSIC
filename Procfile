@@ -1,1 +1,2 @@
-worker: bash start
+worker: bash start -U yt-dlp
+
