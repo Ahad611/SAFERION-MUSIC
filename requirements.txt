@@ -29,7 +29,6 @@ MukeshAPI
 search_engine_parser
 googlesearch-python
 youtube-search-python
-youtube-search
 spotipy
 telegraph
 speedtest-cli
