@@ -29,6 +29,7 @@ MukeshAPI
 search_engine_parser
 googlesearch-python
 youtube-search-python
+yt-dlp>=2024.08.06
 spotipy
 telegraph
 speedtest-cli
