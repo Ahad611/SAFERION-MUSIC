@@ -1,2 +1,3 @@
-worker: bash start -U yt-dlp
+pip install -U yt-dlp
+
 
