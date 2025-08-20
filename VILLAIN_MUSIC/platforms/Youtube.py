@@ -11,8 +11,8 @@ from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
 
-from ShrutiMusic.utils.database import is_on_off
-from ShrutiMusic.utils.formatters import time_to_seconds
+from VILLAIN_MUSIC.utils.database import is_on_off
+from VILLAIN_MUSIC.utils.formatters import time_to_seconds
 
 
 
