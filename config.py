@@ -52,7 +52,7 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SaferionUpdates")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+htL4xNR21dtmYzY1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+Gyru6WH8A541YjA1")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -90,21 +90,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/af7n83.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/fmoot6.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/uqrb36.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/ceqfux.jpg"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/8yvf4x.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/5lc72z.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/8yvf4x.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/8yvf4x.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/8yvf4x.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/8yvf4x.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/8yvf4x.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/4xw3zl.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/4xw3zl.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/4xw3zl.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/6zjeht.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/yh3571.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/6zjeht.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/6zjeht.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/6zjeht.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/6zjeht.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/6zjeht.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/6zjeht.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/6zjeht.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/6zjeht.jpg"
 
 
 def time_to_seconds(time):
